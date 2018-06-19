@@ -1,409 +1,409 @@
-project_id	project_desc	expense_id	expense_desc	year	month_id	country_id	country_desc	hours_count	value
-1	project a	1001	employee/associate	2017	1	1	philippines	189	618
-1	project a	1001	employee/associate	2017	2	1	philippines	171	616
-1	project a	1001	employee/associate	2017	3	1	philippines	198	606
-1	project a	1001	employee/associate	2017	4	1	philippines	151	600
-1	project a	1001	employee/associate	2017	5	1	philippines	188	684
-1	project a	1001	employee/associate	2017	6	1	philippines	171	615
-1	project a	1001	employee/associate	2017	7	1	philippines	179	636
-1	project a	1001	employee/associate	2017	8	1	philippines	177	628
-1	project a	1001	employee/associate	2017	9	1	philippines	178	704
-1	project a	1001	employee/associate	2017	10	1	philippines	171	594
-1	project a	1001	employee/associate	2017	11	1	philippines	170	698
-1	project a	1001	employee/associate	2017	12	1	philippines	154	624
-1	project a	1001	employee/associate	2017	1	1	philippines	189	464
-1	project a	1001	employee/associate	2017	2	1	philippines	171	463
-1	project a	1001	employee/associate	2017	3	1	philippines	198	455
-1	project a	1001	employee/associate	2017	4	1	philippines	151	495
-1	project a	1001	employee/associate	2017	5	1	philippines	188	564
-1	project a	1001	employee/associate	2017	6	1	philippines	171	507
-1	project a	1001	employee/associate	2017	7	1	philippines	179	524
-1	project a	1001	employee/associate	2017	8	1	philippines	177	518
-1	project a	1001	employee/associate	2017	9	1	philippines	178	580
-1	project a	1001	employee/associate	2017	10	1	philippines	171	490
-1	project a	1001	employee/associate	2017	11	1	philippines	170	575
-1	project a	1001	employee/associate	2017	12	1	philippines	154	514
-1	project a	1001	employee/associate	2017	1	1	philippines	189	512
-1	project a	1001	employee/associate	2017	2	1	philippines	171	511
-1	project a	1001	employee/associate	2017	3	1	philippines	198	502
-1	project a	1001	employee/associate	2017	4	1	philippines	151	495
-1	project a	1001	employee/associate	2017	5	1	philippines	188	564
-1	project a	1001	employee/associate	2017	6	1	philippines	171	507
-1	project a	1001	employee/associate	2017	7	1	philippines	179	524
-1	project a	1001	employee/associate	2017	8	1	philippines	177	518
-1	project a	1001	employee/associate	2017	9	1	philippines	178	580
-1	project a	1001	employee/associate	2017	10	1	philippines	171	490
-1	project a	1001	employee/associate	2017	11	1	philippines	170	575
-1	project a	1001	employee/associate	2017	12	1	philippines	154	514
-1	project a	1001	employee/associate	2017	1	1	philippines	189	618
-1	project a	1001	employee/associate	2017	2	1	philippines	171	616
-1	project a	1001	employee/associate	2017	3	1	philippines	198	606
-1	project a	1001	employee/associate	2017	4	1	philippines	151	600
-1	project a	1001	employee/associate	2017	5	1	philippines	188	684
-1	project a	1001	employee/associate	2017	6	1	philippines	171	615
-1	project a	1001	employee/associate	2017	7	1	philippines	179	636
-1	project a	1001	employee/associate	2017	8	1	philippines	177	628
-1	project a	1001	employee/associate	2017	9	1	philippines	178	704
-1	project a	1001	employee/associate	2017	10	1	philippines	171	594
-1	project a	1001	employee/associate	2017	11	1	philippines	170	698
-1	project a	1001	employee/associate	2017	12	1	philippines	154	624
-1	project a	1001	employee/associate	2017	1	1	philippines	189	464
-1	project a	1001	employee/associate	2017	2	1	philippines	171	463
-1	project a	1001	employee/associate	2017	3	1	philippines	198	455
-1	project a	1001	employee/associate	2017	4	1	philippines	151	495
-1	project a	1001	employee/associate	2017	5	1	philippines	188	564
-1	project a	1001	employee/associate	2017	6	1	philippines	171	507
-1	project a	1001	employee/associate	2017	7	1	philippines	179	524
-1	project a	1001	employee/associate	2017	8	1	philippines	177	518
-1	project a	1001	employee/associate	2017	9	1	philippines	178	580
-1	project a	1001	employee/associate	2017	10	1	philippines	171	490
-1	project a	1001	employee/associate	2017	11	1	philippines	170	575
-1	project a	1001	employee/associate	2017	12	1	philippines	154	514
-1	project a	1002	employee/analyst	2017	1	1	philippines	189	962
-1	project a	1002	employee/analyst	2017	2	1	philippines	171	960
-1	project a	1002	employee/analyst	2017	3	1	philippines	198	949
-1	project a	1002	employee/analyst	2017	4	1	philippines	151	919
-1	project a	1002	employee/analyst	2017	5	1	philippines	188	1011
-1	project a	1002	employee/analyst	2017	6	1	philippines	171	930
-1	project a	1002	employee/analyst	2017	7	1	philippines	179	954
-1	project a	1002	employee/analyst	2017	8	1	philippines	177	945
-1	project a	1002	employee/analyst	2017	9	1	philippines	178	1029
-1	project a	1002	employee/analyst	2017	10	1	philippines	171	901
-1	project a	1002	employee/analyst	2017	11	1	philippines	170	1015
-1	project a	1002	employee/analyst	2017	12	1	philippines	154	933
-1	project a	1002	employee/analyst	2017	1	1	philippines	189	1248
-1	project a	1002	employee/analyst	2017	2	1	philippines	171	1246
-1	project a	1002	employee/analyst	2017	3	1	philippines	198	1230
-1	project a	1002	employee/analyst	2017	4	1	philippines	151	1353
-1	project a	1002	employee/analyst	2017	5	1	philippines	188	1505
-1	project a	1002	employee/analyst	2017	6	1	philippines	171	1375
-1	project a	1002	employee/analyst	2017	7	1	philippines	179	1413
-1	project a	1002	employee/analyst	2017	8	1	philippines	177	1399
-1	project a	1002	employee/analyst	2017	9	1	philippines	178	1537
-1	project a	1002	employee/analyst	2017	10	1	philippines	171	1330
-1	project a	1002	employee/analyst	2017	11	1	philippines	170	1519
-1	project a	1002	employee/analyst	2017	12	1	philippines	154	1384
-1	project a	1002	employee/analyst	2017	1	1	philippines	189	962
-1	project a	1002	employee/analyst	2017	2	1	philippines	171	960
-1	project a	1002	employee/analyst	2017	3	1	philippines	198	949
-1	project a	1002	employee/analyst	2017	4	1	philippines	151	919
-1	project a	1002	employee/analyst	2017	5	1	philippines	188	1011
-1	project a	1002	employee/analyst	2017	6	1	philippines	171	930
-1	project a	1002	employee/analyst	2017	7	1	philippines	179	954
-1	project a	1002	employee/analyst	2017	8	1	philippines	177	945
-1	project a	1002	employee/analyst	2017	9	1	philippines	178	1029
-1	project a	1002	employee/analyst	2017	10	1	philippines	171	901
-1	project a	1002	employee/analyst	2017	11	1	philippines	170	1015
-1	project a	1002	employee/analyst	2017	12	1	philippines	154	933
-1	project a	1002	employee/analyst	2017	1	1	philippines	189	1077
-1	project a	1002	employee/analyst	2017	2	1	philippines	171	1075
-1	project a	1002	employee/analyst	2017	3	1	philippines	198	1062
-1	project a	1002	employee/analyst	2017	4	1	philippines	151	1027
-1	project a	1002	employee/analyst	2017	5	1	philippines	188	1134
-1	project a	1002	employee/analyst	2017	6	1	philippines	171	1041
-1	project a	1002	employee/analyst	2017	7	1	philippines	179	1068
-1	project a	1002	employee/analyst	2017	8	1	philippines	177	1058
-1	project a	1002	employee/analyst	2017	9	1	philippines	178	1155
-1	project a	1002	employee/analyst	2017	10	1	philippines	171	1008
-1	project a	1002	employee/analyst	2017	11	1	philippines	170	1141
-1	project a	1002	employee/analyst	2017	12	1	philippines	154	1046
-1	project a	1002	employee/analyst	2017	1	1	philippines	189	1077
-1	project a	1002	employee/analyst	2017	2	1	philippines	171	1075
-1	project a	1002	employee/analyst	2017	3	1	philippines	198	1062
-1	project a	1002	employee/analyst	2017	4	1	philippines	151	1027
-1	project a	1002	employee/analyst	2017	5	1	philippines	188	1134
-1	project a	1002	employee/analyst	2017	6	1	philippines	171	1041
-1	project a	1002	employee/analyst	2017	7	1	philippines	179	1068
-1	project a	1002	employee/analyst	2017	8	1	philippines	177	1058
-1	project a	1002	employee/analyst	2017	9	1	philippines	178	1155
-1	project a	1002	employee/analyst	2017	10	1	philippines	171	1008
-1	project a	1002	employee/analyst	2017	11	1	philippines	170	1141
-1	project a	1002	employee/analyst	2017	12	1	philippines	154	1046
-2	project b	1003	employee/consultant	2017	1	1	philippines	189	2651
-2	project b	1003	employee/consultant	2017	2	1	philippines	171	2636
-2	project b	1003	employee/consultant	2017	3	1	philippines	198	2636
-2	project b	1003	employee/consultant	2017	4	1	philippines	151	2426
-2	project b	1003	employee/consultant	2017	5	1	philippines	188	2707
-2	project b	1003	employee/consultant	2017	6	1	philippines	171	2510
-2	project b	1003	employee/consultant	2017	7	1	philippines	179	2622
-2	project b	1003	employee/consultant	2017	8	1	philippines	177	2608
-2	project b	1003	employee/consultant	2017	9	1	philippines	178	2889
-2	project b	1003	employee/consultant	2017	10	1	philippines	171	2496
-2	project b	1003	employee/consultant	2017	11	1	philippines	170	2889
-2	project b	1003	employee/consultant	2017	12	1	philippines	154	2608
-2	project b	1003	employee/consultant	2017	1	1	philippines	189	1773
-2	project b	1003	employee/consultant	2017	2	1	philippines	171	1764
-2	project b	1003	employee/consultant	2017	3	1	philippines	198	1764
-2	project b	1003	employee/consultant	2017	4	1	philippines	151	1630
-2	project b	1003	employee/consultant	2017	5	1	philippines	188	1808
-2	project b	1003	employee/consultant	2017	6	1	philippines	171	1683
-2	project b	1003	employee/consultant	2017	7	1	philippines	179	1755
-2	project b	1003	employee/consultant	2017	8	1	philippines	177	1746
-2	project b	1003	employee/consultant	2017	9	1	philippines	178	1924
-2	project b	1003	employee/consultant	2017	10	1	philippines	171	1675
-2	project b	1003	employee/consultant	2017	11	1	philippines	170	1924
-2	project b	1003	employee/consultant	2017	12	1	philippines	154	1746
-2	project b	1003	employee/consultant	2017	1	1	philippines	189	1977
-2	project b	1003	employee/consultant	2017	2	1	philippines	171	1967
-2	project b	1003	employee/consultant	2017	3	1	philippines	198	1967
-2	project b	1003	employee/consultant	2017	4	1	philippines	151	1816
-2	project b	1003	employee/consultant	2017	5	1	philippines	188	2018
-2	project b	1003	employee/consultant	2017	6	1	philippines	171	1876
-2	project b	1003	employee/consultant	2017	7	1	philippines	179	1957
-2	project b	1003	employee/consultant	2017	8	1	philippines	177	1947
-2	project b	1003	employee/consultant	2017	9	1	philippines	178	2149
-2	project b	1003	employee/consultant	2017	10	1	philippines	171	1866
-2	project b	1003	employee/consultant	2017	11	1	philippines	170	2149
-2	project b	1003	employee/consultant	2017	12	1	philippines	154	1947
-2	project b	1003	employee/consultant	2017	1	1	philippines	189	577
-2	project b	1003	employee/consultant	2017	2	1	philippines	171	2461
-2	project b	1003	employee/consultant	2017	3	1	philippines	198	2336
-2	project b	1003	employee/consultant	2017	4	1	philippines	151	1817
-2	project b	1003	employee/consultant	2017	5	1	philippines	188	2328
-2	project b	1003	employee/consultant	2017	6	1	philippines	171	2328
-2	project b	1003	employee/consultant	2017	7	1	philippines	179	2695
-2	project b	1003	employee/consultant	2017	8	1	philippines	177	2095
-2	project b	1003	employee/consultant	2017	9	1	philippines	178	2437
-2	project b	1003	employee/consultant	2017	10	1	philippines	171	2212
-2	project b	1003	employee/consultant	2017	11	1	philippines	170	1728
-2	project b	1003	employee/consultant	2017	12	1	philippines	154	1212
-2	project b	1003	employee/consultant	2017	1	1	philippines	189	1909
-2	project b	1003	employee/consultant	2017	2	1	philippines	171	1834
-2	project b	1003	employee/consultant	2017	3	1	philippines	198	1748
-2	project b	1003	employee/consultant	2017	4	1	philippines	151	1956
-2	project b	1003	employee/consultant	2017	5	1	philippines	188	903
-2	project b	1003	employee/consultant	2017	6	1	philippines	171	1747
-2	project b	1003	employee/consultant	2017	7	1	philippines	179	1971
-2	project b	1003	employee/consultant	2017	8	1	philippines	177	1600
-2	project b	1003	employee/consultant	2017	9	1	philippines	178	1886
-2	project b	1003	employee/consultant	2017	10	1	philippines	171	1737
-2	project b	1003	employee/consultant	2017	11	1	philippines	170	1795
-2	project b	1003	employee/consultant	2017	12	1	philippines	154	1969
-3	project c	2101	technology/hosting/development	2017	1	1	philippines	189	65
-3	project c	2101	technology/hosting/development	2017	2	1	philippines	171	65
-3	project c	2101	technology/hosting/development	2017	3	1	philippines	198	65
-3	project c	2101	technology/hosting/development	2017	4	1	philippines	151	54
-3	project c	2101	technology/hosting/development	2017	5	1	philippines	188	46
-3	project c	2101	technology/hosting/development	2017	6	1	philippines	171	51
-3	project c	2101	technology/hosting/development	2017	7	1	philippines	179	55
-3	project c	2101	technology/hosting/development	2017	8	1	philippines	177	42
-3	project c	2101	technology/hosting/development	2017	9	1	philippines	178	45
-3	project c	2101	technology/hosting/development	2017	10	1	philippines	171	44
-3	project c	2101	technology/hosting/development	2017	11	1	philippines	170	45
-3	project c	2101	technology/hosting/development	2017	12	1	philippines	154	45
-3	project c	2101	technology/hosting/development	2017	1	1	philippines	189	59
-3	project c	2101	technology/hosting/development	2017	2	1	philippines	171	59
-3	project c	2101	technology/hosting/development	2017	3	1	philippines	198	59
-3	project c	2101	technology/hosting/development	2017	4	1	philippines	151	48
-3	project c	2101	technology/hosting/development	2017	5	1	philippines	188	55
-3	project c	2101	technology/hosting/development	2017	6	1	philippines	171	52
-3	project c	2101	technology/hosting/development	2017	7	1	philippines	179	64
-3	project c	2101	technology/hosting/development	2017	8	1	philippines	177	49
-3	project c	2101	technology/hosting/development	2017	9	1	philippines	178	52
-3	project c	2101	technology/hosting/development	2017	10	1	philippines	171	51
-3	project c	2101	technology/hosting/development	2017	11	1	philippines	170	52
-3	project c	2101	technology/hosting/development	2017	12	1	philippines	154	52
-3	project c	2101	technology/hosting/development	2017	1	1	philippines	189	59
-3	project c	2101	technology/hosting/development	2017	2	1	philippines	171	59
-3	project c	2101	technology/hosting/development	2017	3	1	philippines	198	59
-3	project c	2101	technology/hosting/development	2017	4	1	philippines	151	48
-3	project c	2101	technology/hosting/development	2017	5	1	philippines	188	55
-3	project c	2101	technology/hosting/development	2017	6	1	philippines	171	52
-3	project c	2101	technology/hosting/development	2017	7	1	philippines	179	64
-3	project c	2101	technology/hosting/development	2017	8	1	philippines	177	49
-3	project c	2101	technology/hosting/development	2017	9	1	philippines	178	52
-3	project c	2101	technology/hosting/development	2017	10	1	philippines	171	51
-3	project c	2101	technology/hosting/development	2017	11	1	philippines	170	52
-3	project c	2101	technology/hosting/development	2017	12	1	philippines	154	52
-3	project c	2101	technology/hosting/development	2017	1	1	philippines	189	81
-3	project c	2101	technology/hosting/development	2017	2	1	philippines	171	81
-3	project c	2101	technology/hosting/development	2017	3	1	philippines	198	81
-3	project c	2101	technology/hosting/development	2017	4	1	philippines	151	66
-3	project c	2101	technology/hosting/development	2017	5	1	philippines	188	61
-3	project c	2101	technology/hosting/development	2017	6	1	philippines	171	64
-3	project c	2101	technology/hosting/development	2017	7	1	philippines	179	74
-3	project c	2101	technology/hosting/development	2017	8	1	philippines	177	57
-3	project c	2101	technology/hosting/development	2017	9	1	philippines	178	58
-3	project c	2101	technology/hosting/development	2017	10	1	philippines	171	57
-3	project c	2101	technology/hosting/development	2017	11	1	philippines	170	58
-3	project c	2101	technology/hosting/development	2017	12	1	philippines	154	58
-3	project c	2101	technology/hosting/development	2017	1	1	philippines	189	83
-3	project c	2101	technology/hosting/development	2017	2	1	philippines	171	83
-3	project c	2101	technology/hosting/development	2017	3	1	philippines	198	83
-3	project c	2101	technology/hosting/development	2017	4	1	philippines	151	68
-3	project c	2101	technology/hosting/development	2017	5	1	philippines	188	49
-3	project c	2101	technology/hosting/development	2017	6	1	philippines	171	54
-3	project c	2101	technology/hosting/development	2017	7	1	philippines	179	58
-3	project c	2101	technology/hosting/development	2017	8	1	philippines	177	36
-3	project c	2101	technology/hosting/development	2017	9	1	philippines	178	36
-3	project c	2101	technology/hosting/development	2017	10	1	philippines	171	36
-3	project c	2101	technology/hosting/development	2017	11	1	philippines	170	36
-3	project c	2101	technology/hosting/development	2017	12	1	philippines	154	36
-3	project c	2101	technology/hosting/development	2017	1	1	philippines	189	173
-3	project c	2101	technology/hosting/development	2017	2	1	philippines	171	173
-3	project c	2101	technology/hosting/development	2017	3	1	philippines	198	173
-3	project c	2101	technology/hosting/development	2017	4	1	philippines	151	136
-3	project c	2101	technology/hosting/development	2017	5	1	philippines	188	110
-3	project c	2101	technology/hosting/development	2017	6	1	philippines	171	121
-3	project c	2101	technology/hosting/development	2017	7	1	philippines	179	132
-3	project c	2101	technology/hosting/development	2017	8	1	philippines	177	96
-3	project c	2101	technology/hosting/development	2017	9	1	philippines	178	98
-3	project c	2101	technology/hosting/development	2017	10	1	philippines	171	96
-3	project c	2101	technology/hosting/development	2017	11	1	philippines	170	98
-3	project c	2101	technology/hosting/development	2017	12	1	philippines	154	98
-4	project d	2102	technology/hosting/testing	2017	1	1	philippines	189	102
-4	project d	2102	technology/hosting/testing	2017	2	1	philippines	171	102
-4	project d	2102	technology/hosting/testing	2017	3	1	philippines	198	102
-4	project d	2102	technology/hosting/testing	2017	4	1	philippines	151	78
-4	project d	2102	technology/hosting/testing	2017	5	1	philippines	188	78
-4	project d	2102	technology/hosting/testing	2017	6	1	philippines	171	37
-4	project d	2102	technology/hosting/testing	2017	7	1	philippines	179	45
-4	project d	2102	technology/hosting/testing	2017	8	1	philippines	177	44
-4	project d	2102	technology/hosting/testing	2017	9	1	philippines	178	48
-4	project d	2102	technology/hosting/testing	2017	10	1	philippines	171	47
-4	project d	2102	technology/hosting/testing	2017	11	1	philippines	170	48
-4	project d	2102	technology/hosting/testing	2017	12	1	philippines	154	48
-4	project d	2102	technology/hosting/testing	2017	1	1	philippines	189	57
-4	project d	2102	technology/hosting/testing	2017	2	1	philippines	171	57
-4	project d	2102	technology/hosting/testing	2017	3	1	philippines	198	57
-4	project d	2102	technology/hosting/testing	2017	4	1	philippines	151	47
-4	project d	2102	technology/hosting/testing	2017	5	1	philippines	188	47
-4	project d	2102	technology/hosting/testing	2017	6	1	philippines	171	33
-4	project d	2102	technology/hosting/testing	2017	7	1	philippines	179	37
-4	project d	2102	technology/hosting/testing	2017	8	1	philippines	177	37
-4	project d	2102	technology/hosting/testing	2017	9	1	philippines	178	40
-4	project d	2102	technology/hosting/testing	2017	10	1	philippines	171	39
-4	project d	2102	technology/hosting/testing	2017	11	1	philippines	170	40
-4	project d	2102	technology/hosting/testing	2017	12	1	philippines	154	40
-4	project d	2102	technology/hosting/testing	2017	1	1	philippines	189	102
-4	project d	2102	technology/hosting/testing	2017	2	1	philippines	171	102
-4	project d	2102	technology/hosting/testing	2017	3	1	philippines	198	102
-4	project d	2102	technology/hosting/testing	2017	4	1	philippines	151	78
-4	project d	2102	technology/hosting/testing	2017	5	1	philippines	188	78
-4	project d	2102	technology/hosting/testing	2017	6	1	philippines	171	37
-4	project d	2102	technology/hosting/testing	2017	7	1	philippines	179	45
-4	project d	2102	technology/hosting/testing	2017	8	1	philippines	177	44
-4	project d	2102	technology/hosting/testing	2017	9	1	philippines	178	48
-4	project d	2102	technology/hosting/testing	2017	10	1	philippines	171	47
-4	project d	2102	technology/hosting/testing	2017	11	1	philippines	170	48
-4	project d	2102	technology/hosting/testing	2017	12	1	philippines	154	48
-4	project d	2102	technology/hosting/testing	2017	1	1	philippines	189	66
-4	project d	2102	technology/hosting/testing	2017	2	1	philippines	171	66
-4	project d	2102	technology/hosting/testing	2017	3	1	philippines	198	66
-4	project d	2102	technology/hosting/testing	2017	4	1	philippines	151	55
-4	project d	2102	technology/hosting/testing	2017	5	1	philippines	188	55
-4	project d	2102	technology/hosting/testing	2017	6	1	philippines	171	100
-4	project d	2102	technology/hosting/testing	2017	7	1	philippines	179	114
-4	project d	2102	technology/hosting/testing	2017	8	1	philippines	177	112
-4	project d	2102	technology/hosting/testing	2017	9	1	philippines	178	114
-4	project d	2102	technology/hosting/testing	2017	10	1	philippines	171	112
-4	project d	2102	technology/hosting/testing	2017	11	1	philippines	170	114
-4	project d	2102	technology/hosting/testing	2017	12	1	philippines	154	114
-4	project d	2102	technology/hosting/testing	2017	1	1	philippines	189	114
-4	project d	2102	technology/hosting/testing	2017	2	1	philippines	171	116
-4	project d	2102	technology/hosting/testing	2017	3	1	philippines	198	114
-4	project d	2102	technology/hosting/testing	2017	4	1	philippines	151	114
-4	project d	2102	technology/hosting/testing	2017	5	1	philippines	188	114
-4	project d	2102	technology/hosting/testing	2017	6	1	philippines	171	101
-4	project d	2102	technology/hosting/testing	2017	7	1	philippines	179	90
-4	project d	2102	technology/hosting/testing	2017	8	1	philippines	177	89
-4	project d	2102	technology/hosting/testing	2017	9	1	philippines	178	90
-4	project d	2102	technology/hosting/testing	2017	10	1	philippines	171	89
-4	project d	2102	technology/hosting/testing	2017	11	1	philippines	170	90
-4	project d	2102	technology/hosting/testing	2017	12	1	philippines	154	90
-4	project d	2103	testing/hosting/production	2017	1	1	philippines	189	180
-4	project d	2103	testing/hosting/production	2017	2	1	philippines	171	180
-4	project d	2103	testing/hosting/production	2017	3	1	philippines	198	180
-4	project d	2103	testing/hosting/production	2017	4	1	philippines	151	133
-4	project d	2103	testing/hosting/production	2017	5	1	philippines	188	133
-4	project d	2103	testing/hosting/production	2017	6	1	philippines	171	133
-4	project d	2103	testing/hosting/production	2017	7	1	philippines	179	243
-4	project d	2103	testing/hosting/production	2017	8	1	philippines	177	246
-4	project d	2103	testing/hosting/production	2017	9	1	philippines	178	254
-4	project d	2103	testing/hosting/production	2017	10	1	philippines	171	247
-4	project d	2103	testing/hosting/production	2017	11	1	philippines	170	254
-4	project d	2103	testing/hosting/production	2017	12	1	philippines	154	254
-4	project d	2103	testing/hosting/production	2017	1	1	philippines	189	183
-4	project d	2103	testing/hosting/production	2017	2	1	philippines	171	183
-4	project d	2103	testing/hosting/production	2017	3	1	philippines	198	183
-4	project d	2103	testing/hosting/production	2017	4	1	philippines	151	145
-4	project d	2103	testing/hosting/production	2017	5	1	philippines	188	145
-4	project d	2103	testing/hosting/production	2017	6	1	philippines	171	652
-4	project d	2103	testing/hosting/production	2017	7	1	philippines	179	725
-4	project d	2103	testing/hosting/production	2017	8	1	philippines	177	700
-4	project d	2103	testing/hosting/production	2017	9	1	philippines	178	722
-4	project d	2103	testing/hosting/production	2017	10	1	philippines	171	700
-4	project d	2103	testing/hosting/production	2017	11	1	philippines	170	722
-4	project d	2103	testing/hosting/production	2017	12	1	philippines	154	722
-4	project d	2103	testing/hosting/production	2017	1	1	philippines	189	138
-4	project d	2103	testing/hosting/production	2017	2	1	philippines	171	138
-4	project d	2103	testing/hosting/production	2017	3	1	philippines	198	138
-4	project d	2103	testing/hosting/production	2017	4	1	philippines	151	136
-4	project d	2103	testing/hosting/production	2017	5	1	philippines	188	136
-4	project d	2103	testing/hosting/production	2017	6	1	philippines	171	213
-4	project d	2103	testing/hosting/production	2017	7	1	philippines	179	232
-4	project d	2103	testing/hosting/production	2017	8	1	philippines	177	162
-4	project d	2103	testing/hosting/production	2017	9	1	philippines	178	166
-4	project d	2103	testing/hosting/production	2017	10	1	philippines	171	162
-4	project d	2103	testing/hosting/production	2017	11	1	philippines	170	166
-4	project d	2103	testing/hosting/production	2017	12	1	philippines	154	166
-4	project d	2103	testing/hosting/production	2017	1	1	philippines	189	107
-4	project d	2103	testing/hosting/production	2017	2	1	philippines	171	107
-4	project d	2103	testing/hosting/production	2017	3	1	philippines	198	107
-4	project d	2103	testing/hosting/production	2017	4	1	philippines	151	86
-4	project d	2103	testing/hosting/production	2017	5	1	philippines	188	86
-4	project d	2103	testing/hosting/production	2017	6	1	philippines	171	339
-4	project d	2103	testing/hosting/production	2017	7	1	philippines	179	381
-4	project d	2103	testing/hosting/production	2017	8	1	philippines	177	371
-4	project d	2103	testing/hosting/production	2017	9	1	philippines	178	381
-4	project d	2103	testing/hosting/production	2017	10	1	philippines	171	371
-4	project d	2103	testing/hosting/production	2017	11	1	philippines	170	381
-4	project d	2103	testing/hosting/production	2017	12	1	philippines	154	381
-4	project d	2103	testing/hosting/production	2017	1	1	philippines	189	221
-4	project d	2103	testing/hosting/production	2017	2	1	philippines	171	226
-4	project d	2103	testing/hosting/production	2017	3	1	philippines	198	221
-4	project d	2103	testing/hosting/production	2017	4	1	philippines	151	224
-4	project d	2103	testing/hosting/production	2017	5	1	philippines	188	224
-4	project d	2103	testing/hosting/production	2017	6	1	philippines	171	236
-4	project d	2103	testing/hosting/production	2017	7	1	philippines	179	256
-4	project d	2103	testing/hosting/production	2017	8	1	philippines	177	249
-4	project d	2103	testing/hosting/production	2017	9	1	philippines	178	256
-4	project d	2103	testing/hosting/production	2017	10	1	philippines	171	249
-4	project d	2103	testing/hosting/production	2017	11	1	philippines	170	256
-4	project d	2103	testing/hosting/production	2017	12	1	philippines	154	256
-5	project e	3001	other/workspace	2017	1	1	philippines	189	4000
-5	project e	3001	other/workspace	2017	2	1	philippines	171	4000
-5	project e	3001	other/workspace	2017	3	1	philippines	198	4000
-5	project e	3001	other/workspace	2017	4	1	philippines	151	4000
-5	project e	3001	other/workspace	2017	5	1	philippines	188	5000
-5	project e	3001	other/workspace	2017	6	1	philippines	171	5500
-5	project e	3001	other/workspace	2017	7	1	philippines	179	3750
-5	project e	3001	other/workspace	2017	8	1	philippines	177	4500
-5	project e	3001	other/workspace	2017	9	1	philippines	178	5000
-5	project e	3001	other/workspace	2017	10	1	philippines	171	5000
-5	project e	3001	other/workspace	2017	11	1	philippines	170	5000
-5	project e	3001	other/workspace	2017	12	1	philippines	154	5000
-5	project e	3001	other/workspace	2017	1	1	philippines	189	200
-5	project e	3001	other/workspace	2017	2	1	philippines	171	200
-5	project e	3001	other/workspace	2017	3	1	philippines	198	500
-5	project e	3001	other/workspace	2017	4	1	philippines	151	1000
-5	project e	3001	other/workspace	2017	5	1	philippines	188	300
-5	project e	3001	other/workspace	2017	6	1	philippines	171	300
-5	project e	3001	other/workspace	2017	7	1	philippines	179	300
-5	project e	3001	other/workspace	2017	8	1	philippines	177	300
-5	project e	3001	other/workspace	2017	9	1	philippines	178	300
-5	project e	3001	other/workspace	2017	10	1	philippines	171	300
-5	project e	3001	other/workspace	2017	11	1	philippines	170	300
-5	project e	3001	other/workspace	2017	12	1	philippines	154	300
-5	project e	3001	other/workspace	2017	1	1	philippines	189	500
-5	project e	3001	other/workspace	2017	2	1	philippines	171	500
-5	project e	3001	other/workspace	2017	3	1	philippines	198	500
-5	project e	3001	other/workspace	2017	4	1	philippines	151	500
-5	project e	3001	other/workspace	2017	5	1	philippines	188	500
-5	project e	3001	other/workspace	2017	6	1	philippines	171	550
-5	project e	3001	other/workspace	2017	7	1	philippines	179	550
-5	project e	3001	other/workspace	2017	8	1	philippines	177	550
-5	project e	3001	other/workspace	2017	9	1	philippines	178	550
-5	project e	3001	other/workspace	2017	10	1	philippines	171	550
-5	project e	3001	other/workspace	2017	11	1	philippines	170	550
-5	project e	3001	other/workspace	2017	12	1	philippines	154	550
+project_id,project_desc,expense_id,expense_desc,year,quarter_id,month_id,country_id,country_desc,hours_count,value
+1,project a,1001,employee/associate,2017,1,1,1,philippines,189,618
+1,project a,1001,employee/associate,2017,1,2,1,philippines,171,616
+1,project a,1001,employee/associate,2017,1,3,1,philippines,198,606
+1,project a,1001,employee/associate,2017,2,4,1,philippines,151,600
+1,project a,1001,employee/associate,2017,2,5,1,philippines,188,684
+1,project a,1001,employee/associate,2017,2,6,1,philippines,171,615
+1,project a,1001,employee/associate,2017,3,7,1,philippines,179,636
+1,project a,1001,employee/associate,2017,3,8,1,philippines,177,628
+1,project a,1001,employee/associate,2017,3,9,1,philippines,178,704
+1,project a,1001,employee/associate,2017,4,10,1,philippines,171,594
+1,project a,1001,employee/associate,2017,4,11,1,philippines,170,698
+1,project a,1001,employee/associate,2017,4,12,1,philippines,154,624
+1,project a,1001,employee/associate,2017,1,1,1,philippines,189,464
+1,project a,1001,employee/associate,2017,1,2,1,philippines,171,463
+1,project a,1001,employee/associate,2017,1,3,1,philippines,198,455
+1,project a,1001,employee/associate,2017,2,4,1,philippines,151,495
+1,project a,1001,employee/associate,2017,2,5,1,philippines,188,564
+1,project a,1001,employee/associate,2017,2,6,1,philippines,171,507
+1,project a,1001,employee/associate,2017,3,7,1,philippines,179,524
+1,project a,1001,employee/associate,2017,3,8,1,philippines,177,518
+1,project a,1001,employee/associate,2017,3,9,1,philippines,178,580
+1,project a,1001,employee/associate,2017,4,10,1,philippines,171,490
+1,project a,1001,employee/associate,2017,4,11,1,philippines,170,575
+1,project a,1001,employee/associate,2017,4,12,1,philippines,154,514
+1,project a,1001,employee/associate,2017,1,1,1,philippines,189,512
+1,project a,1001,employee/associate,2017,1,2,1,philippines,171,511
+1,project a,1001,employee/associate,2017,1,3,1,philippines,198,502
+1,project a,1001,employee/associate,2017,2,4,1,philippines,151,495
+1,project a,1001,employee/associate,2017,2,5,1,philippines,188,564
+1,project a,1001,employee/associate,2017,2,6,1,philippines,171,507
+1,project a,1001,employee/associate,2017,3,7,1,philippines,179,524
+1,project a,1001,employee/associate,2017,3,8,1,philippines,177,518
+1,project a,1001,employee/associate,2017,3,9,1,philippines,178,580
+1,project a,1001,employee/associate,2017,4,10,1,philippines,171,490
+1,project a,1001,employee/associate,2017,4,11,1,philippines,170,575
+1,project a,1001,employee/associate,2017,4,12,1,philippines,154,514
+1,project a,1001,employee/associate,2017,1,1,1,philippines,189,618
+1,project a,1001,employee/associate,2017,1,2,1,philippines,171,616
+1,project a,1001,employee/associate,2017,1,3,1,philippines,198,606
+1,project a,1001,employee/associate,2017,2,4,1,philippines,151,600
+1,project a,1001,employee/associate,2017,2,5,1,philippines,188,684
+1,project a,1001,employee/associate,2017,2,6,1,philippines,171,615
+1,project a,1001,employee/associate,2017,3,7,1,philippines,179,636
+1,project a,1001,employee/associate,2017,3,8,1,philippines,177,628
+1,project a,1001,employee/associate,2017,3,9,1,philippines,178,704
+1,project a,1001,employee/associate,2017,4,10,1,philippines,171,594
+1,project a,1001,employee/associate,2017,4,11,1,philippines,170,698
+1,project a,1001,employee/associate,2017,4,12,1,philippines,154,624
+1,project a,1001,employee/associate,2017,1,1,1,philippines,189,464
+1,project a,1001,employee/associate,2017,1,2,1,philippines,171,463
+1,project a,1001,employee/associate,2017,1,3,1,philippines,198,455
+1,project a,1001,employee/associate,2017,2,4,1,philippines,151,495
+1,project a,1001,employee/associate,2017,2,5,1,philippines,188,564
+1,project a,1001,employee/associate,2017,2,6,1,philippines,171,507
+1,project a,1001,employee/associate,2017,3,7,1,philippines,179,524
+1,project a,1001,employee/associate,2017,3,8,1,philippines,177,518
+1,project a,1001,employee/associate,2017,3,9,1,philippines,178,580
+1,project a,1001,employee/associate,2017,4,10,1,philippines,171,490
+1,project a,1001,employee/associate,2017,4,11,1,philippines,170,575
+1,project a,1001,employee/associate,2017,4,12,1,philippines,154,514
+1,project a,1002,employee/analyst,2017,1,1,1,philippines,189,962
+1,project a,1002,employee/analyst,2017,1,2,1,philippines,171,960
+1,project a,1002,employee/analyst,2017,1,3,1,philippines,198,949
+1,project a,1002,employee/analyst,2017,2,4,1,philippines,151,919
+1,project a,1002,employee/analyst,2017,2,5,1,philippines,188,1011
+1,project a,1002,employee/analyst,2017,2,6,1,philippines,171,930
+1,project a,1002,employee/analyst,2017,3,7,1,philippines,179,954
+1,project a,1002,employee/analyst,2017,3,8,1,philippines,177,945
+1,project a,1002,employee/analyst,2017,3,9,1,philippines,178,1029
+1,project a,1002,employee/analyst,2017,4,10,1,philippines,171,901
+1,project a,1002,employee/analyst,2017,4,11,1,philippines,170,1015
+1,project a,1002,employee/analyst,2017,4,12,1,philippines,154,933
+1,project a,1002,employee/analyst,2017,1,1,1,philippines,189,1248
+1,project a,1002,employee/analyst,2017,1,2,1,philippines,171,1246
+1,project a,1002,employee/analyst,2017,1,3,1,philippines,198,1230
+1,project a,1002,employee/analyst,2017,2,4,1,philippines,151,1353
+1,project a,1002,employee/analyst,2017,2,5,1,philippines,188,1505
+1,project a,1002,employee/analyst,2017,2,6,1,philippines,171,1375
+1,project a,1002,employee/analyst,2017,3,7,1,philippines,179,1413
+1,project a,1002,employee/analyst,2017,3,8,1,philippines,177,1399
+1,project a,1002,employee/analyst,2017,3,9,1,philippines,178,1537
+1,project a,1002,employee/analyst,2017,4,10,1,philippines,171,1330
+1,project a,1002,employee/analyst,2017,4,11,1,philippines,170,1519
+1,project a,1002,employee/analyst,2017,4,12,1,philippines,154,1384
+1,project a,1002,employee/analyst,2017,1,1,1,philippines,189,962
+1,project a,1002,employee/analyst,2017,1,2,1,philippines,171,960
+1,project a,1002,employee/analyst,2017,1,3,1,philippines,198,949
+1,project a,1002,employee/analyst,2017,2,4,1,philippines,151,919
+1,project a,1002,employee/analyst,2017,2,5,1,philippines,188,1011
+1,project a,1002,employee/analyst,2017,2,6,1,philippines,171,930
+1,project a,1002,employee/analyst,2017,3,7,1,philippines,179,954
+1,project a,1002,employee/analyst,2017,3,8,1,philippines,177,945
+1,project a,1002,employee/analyst,2017,3,9,1,philippines,178,1029
+1,project a,1002,employee/analyst,2017,4,10,1,philippines,171,901
+1,project a,1002,employee/analyst,2017,4,11,1,philippines,170,1015
+1,project a,1002,employee/analyst,2017,4,12,1,philippines,154,933
+1,project a,1002,employee/analyst,2017,1,1,1,philippines,189,1077
+1,project a,1002,employee/analyst,2017,1,2,1,philippines,171,1075
+1,project a,1002,employee/analyst,2017,1,3,1,philippines,198,1062
+1,project a,1002,employee/analyst,2017,2,4,1,philippines,151,1027
+1,project a,1002,employee/analyst,2017,2,5,1,philippines,188,1134
+1,project a,1002,employee/analyst,2017,2,6,1,philippines,171,1041
+1,project a,1002,employee/analyst,2017,3,7,1,philippines,179,1068
+1,project a,1002,employee/analyst,2017,3,8,1,philippines,177,1058
+1,project a,1002,employee/analyst,2017,3,9,1,philippines,178,1155
+1,project a,1002,employee/analyst,2017,4,10,1,philippines,171,1008
+1,project a,1002,employee/analyst,2017,4,11,1,philippines,170,1141
+1,project a,1002,employee/analyst,2017,4,12,1,philippines,154,1046
+1,project a,1002,employee/analyst,2017,1,1,1,philippines,189,1077
+1,project a,1002,employee/analyst,2017,1,2,1,philippines,171,1075
+1,project a,1002,employee/analyst,2017,1,3,1,philippines,198,1062
+1,project a,1002,employee/analyst,2017,2,4,1,philippines,151,1027
+1,project a,1002,employee/analyst,2017,2,5,1,philippines,188,1134
+1,project a,1002,employee/analyst,2017,2,6,1,philippines,171,1041
+1,project a,1002,employee/analyst,2017,3,7,1,philippines,179,1068
+1,project a,1002,employee/analyst,2017,3,8,1,philippines,177,1058
+1,project a,1002,employee/analyst,2017,3,9,1,philippines,178,1155
+1,project a,1002,employee/analyst,2017,4,10,1,philippines,171,1008
+1,project a,1002,employee/analyst,2017,4,11,1,philippines,170,1141
+1,project a,1002,employee/analyst,2017,4,12,1,philippines,154,1046
+2,project b,1003,employee/consultant,2017,1,1,1,philippines,189,2651
+2,project b,1003,employee/consultant,2017,1,2,1,philippines,171,2636
+2,project b,1003,employee/consultant,2017,1,3,1,philippines,198,2636
+2,project b,1003,employee/consultant,2017,2,4,1,philippines,151,2426
+2,project b,1003,employee/consultant,2017,2,5,1,philippines,188,2707
+2,project b,1003,employee/consultant,2017,2,6,1,philippines,171,2510
+2,project b,1003,employee/consultant,2017,3,7,1,philippines,179,2622
+2,project b,1003,employee/consultant,2017,3,8,1,philippines,177,2608
+2,project b,1003,employee/consultant,2017,3,9,1,philippines,178,2889
+2,project b,1003,employee/consultant,2017,4,10,1,philippines,171,2496
+2,project b,1003,employee/consultant,2017,4,11,1,philippines,170,2889
+2,project b,1003,employee/consultant,2017,4,12,1,philippines,154,2608
+2,project b,1003,employee/consultant,2017,1,1,1,philippines,189,1773
+2,project b,1003,employee/consultant,2017,1,2,1,philippines,171,1764
+2,project b,1003,employee/consultant,2017,1,3,1,philippines,198,1764
+2,project b,1003,employee/consultant,2017,2,4,1,philippines,151,1630
+2,project b,1003,employee/consultant,2017,2,5,1,philippines,188,1808
+2,project b,1003,employee/consultant,2017,2,6,1,philippines,171,1683
+2,project b,1003,employee/consultant,2017,3,7,1,philippines,179,1755
+2,project b,1003,employee/consultant,2017,3,8,1,philippines,177,1746
+2,project b,1003,employee/consultant,2017,3,9,1,philippines,178,1924
+2,project b,1003,employee/consultant,2017,4,10,1,philippines,171,1675
+2,project b,1003,employee/consultant,2017,4,11,1,philippines,170,1924
+2,project b,1003,employee/consultant,2017,4,12,1,philippines,154,1746
+2,project b,1003,employee/consultant,2017,1,1,1,philippines,189,1977
+2,project b,1003,employee/consultant,2017,1,2,1,philippines,171,1967
+2,project b,1003,employee/consultant,2017,1,3,1,philippines,198,1967
+2,project b,1003,employee/consultant,2017,2,4,1,philippines,151,1816
+2,project b,1003,employee/consultant,2017,2,5,1,philippines,188,2018
+2,project b,1003,employee/consultant,2017,2,6,1,philippines,171,1876
+2,project b,1003,employee/consultant,2017,3,7,1,philippines,179,1957
+2,project b,1003,employee/consultant,2017,3,8,1,philippines,177,1947
+2,project b,1003,employee/consultant,2017,3,9,1,philippines,178,2149
+2,project b,1003,employee/consultant,2017,4,10,1,philippines,171,1866
+2,project b,1003,employee/consultant,2017,4,11,1,philippines,170,2149
+2,project b,1003,employee/consultant,2017,4,12,1,philippines,154,1947
+2,project b,1003,employee/consultant,2017,1,1,1,philippines,189,577
+2,project b,1003,employee/consultant,2017,1,2,1,philippines,171,2461
+2,project b,1003,employee/consultant,2017,1,3,1,philippines,198,2336
+2,project b,1003,employee/consultant,2017,2,4,1,philippines,151,1817
+2,project b,1003,employee/consultant,2017,2,5,1,philippines,188,2328
+2,project b,1003,employee/consultant,2017,2,6,1,philippines,171,2328
+2,project b,1003,employee/consultant,2017,3,7,1,philippines,179,2695
+2,project b,1003,employee/consultant,2017,3,8,1,philippines,177,2095
+2,project b,1003,employee/consultant,2017,3,9,1,philippines,178,2437
+2,project b,1003,employee/consultant,2017,4,10,1,philippines,171,2212
+2,project b,1003,employee/consultant,2017,4,11,1,philippines,170,1728
+2,project b,1003,employee/consultant,2017,4,12,1,philippines,154,1212
+2,project b,1003,employee/consultant,2017,1,1,1,philippines,189,1909
+2,project b,1003,employee/consultant,2017,1,2,1,philippines,171,1834
+2,project b,1003,employee/consultant,2017,1,3,1,philippines,198,1748
+2,project b,1003,employee/consultant,2017,2,4,1,philippines,151,1956
+2,project b,1003,employee/consultant,2017,2,5,1,philippines,188,903
+2,project b,1003,employee/consultant,2017,2,6,1,philippines,171,1747
+2,project b,1003,employee/consultant,2017,3,7,1,philippines,179,1971
+2,project b,1003,employee/consultant,2017,3,8,1,philippines,177,1600
+2,project b,1003,employee/consultant,2017,3,9,1,philippines,178,1886
+2,project b,1003,employee/consultant,2017,4,10,1,philippines,171,1737
+2,project b,1003,employee/consultant,2017,4,11,1,philippines,170,1795
+2,project b,1003,employee/consultant,2017,4,12,1,philippines,154,1969
+3,project c,2101,technology/hosting/development,2017,1,1,1,philippines,189,65
+3,project c,2101,technology/hosting/development,2017,1,2,1,philippines,171,65
+3,project c,2101,technology/hosting/development,2017,1,3,1,philippines,198,65
+3,project c,2101,technology/hosting/development,2017,2,4,1,philippines,151,54
+3,project c,2101,technology/hosting/development,2017,2,5,1,philippines,188,46
+3,project c,2101,technology/hosting/development,2017,2,6,1,philippines,171,51
+3,project c,2101,technology/hosting/development,2017,3,7,1,philippines,179,55
+3,project c,2101,technology/hosting/development,2017,3,8,1,philippines,177,42
+3,project c,2101,technology/hosting/development,2017,3,9,1,philippines,178,45
+3,project c,2101,technology/hosting/development,2017,4,10,1,philippines,171,44
+3,project c,2101,technology/hosting/development,2017,4,11,1,philippines,170,45
+3,project c,2101,technology/hosting/development,2017,4,12,1,philippines,154,45
+3,project c,2101,technology/hosting/development,2017,1,1,1,philippines,189,59
+3,project c,2101,technology/hosting/development,2017,1,2,1,philippines,171,59
+3,project c,2101,technology/hosting/development,2017,1,3,1,philippines,198,59
+3,project c,2101,technology/hosting/development,2017,2,4,1,philippines,151,48
+3,project c,2101,technology/hosting/development,2017,2,5,1,philippines,188,55
+3,project c,2101,technology/hosting/development,2017,2,6,1,philippines,171,52
+3,project c,2101,technology/hosting/development,2017,3,7,1,philippines,179,64
+3,project c,2101,technology/hosting/development,2017,3,8,1,philippines,177,49
+3,project c,2101,technology/hosting/development,2017,3,9,1,philippines,178,52
+3,project c,2101,technology/hosting/development,2017,4,10,1,philippines,171,51
+3,project c,2101,technology/hosting/development,2017,4,11,1,philippines,170,52
+3,project c,2101,technology/hosting/development,2017,4,12,1,philippines,154,52
+3,project c,2101,technology/hosting/development,2017,1,1,1,philippines,189,59
+3,project c,2101,technology/hosting/development,2017,1,2,1,philippines,171,59
+3,project c,2101,technology/hosting/development,2017,1,3,1,philippines,198,59
+3,project c,2101,technology/hosting/development,2017,2,4,1,philippines,151,48
+3,project c,2101,technology/hosting/development,2017,2,5,1,philippines,188,55
+3,project c,2101,technology/hosting/development,2017,2,6,1,philippines,171,52
+3,project c,2101,technology/hosting/development,2017,3,7,1,philippines,179,64
+3,project c,2101,technology/hosting/development,2017,3,8,1,philippines,177,49
+3,project c,2101,technology/hosting/development,2017,3,9,1,philippines,178,52
+3,project c,2101,technology/hosting/development,2017,4,10,1,philippines,171,51
+3,project c,2101,technology/hosting/development,2017,4,11,1,philippines,170,52
+3,project c,2101,technology/hosting/development,2017,4,12,1,philippines,154,52
+3,project c,2101,technology/hosting/development,2017,1,1,1,philippines,189,81
+3,project c,2101,technology/hosting/development,2017,1,2,1,philippines,171,81
+3,project c,2101,technology/hosting/development,2017,1,3,1,philippines,198,81
+3,project c,2101,technology/hosting/development,2017,2,4,1,philippines,151,66
+3,project c,2101,technology/hosting/development,2017,2,5,1,philippines,188,61
+3,project c,2101,technology/hosting/development,2017,2,6,1,philippines,171,64
+3,project c,2101,technology/hosting/development,2017,3,7,1,philippines,179,74
+3,project c,2101,technology/hosting/development,2017,3,8,1,philippines,177,57
+3,project c,2101,technology/hosting/development,2017,3,9,1,philippines,178,58
+3,project c,2101,technology/hosting/development,2017,4,10,1,philippines,171,57
+3,project c,2101,technology/hosting/development,2017,4,11,1,philippines,170,58
+3,project c,2101,technology/hosting/development,2017,4,12,1,philippines,154,58
+3,project c,2101,technology/hosting/development,2017,1,1,1,philippines,189,83
+3,project c,2101,technology/hosting/development,2017,1,2,1,philippines,171,83
+3,project c,2101,technology/hosting/development,2017,1,3,1,philippines,198,83
+3,project c,2101,technology/hosting/development,2017,2,4,1,philippines,151,68
+3,project c,2101,technology/hosting/development,2017,2,5,1,philippines,188,49
+3,project c,2101,technology/hosting/development,2017,2,6,1,philippines,171,54
+3,project c,2101,technology/hosting/development,2017,3,7,1,philippines,179,58
+3,project c,2101,technology/hosting/development,2017,3,8,1,philippines,177,36
+3,project c,2101,technology/hosting/development,2017,3,9,1,philippines,178,36
+3,project c,2101,technology/hosting/development,2017,4,10,1,philippines,171,36
+3,project c,2101,technology/hosting/development,2017,4,11,1,philippines,170,36
+3,project c,2101,technology/hosting/development,2017,4,12,1,philippines,154,36
+3,project c,2101,technology/hosting/development,2017,1,1,1,philippines,189,173
+3,project c,2101,technology/hosting/development,2017,1,2,1,philippines,171,173
+3,project c,2101,technology/hosting/development,2017,1,3,1,philippines,198,173
+3,project c,2101,technology/hosting/development,2017,2,4,1,philippines,151,136
+3,project c,2101,technology/hosting/development,2017,2,5,1,philippines,188,110
+3,project c,2101,technology/hosting/development,2017,2,6,1,philippines,171,121
+3,project c,2101,technology/hosting/development,2017,3,7,1,philippines,179,132
+3,project c,2101,technology/hosting/development,2017,3,8,1,philippines,177,96
+3,project c,2101,technology/hosting/development,2017,3,9,1,philippines,178,98
+3,project c,2101,technology/hosting/development,2017,4,10,1,philippines,171,96
+3,project c,2101,technology/hosting/development,2017,4,11,1,philippines,170,98
+3,project c,2101,technology/hosting/development,2017,4,12,1,philippines,154,98
+4,project d,2102,technology/hosting/testing,2017,1,1,1,philippines,189,102
+4,project d,2102,technology/hosting/testing,2017,1,2,1,philippines,171,102
+4,project d,2102,technology/hosting/testing,2017,1,3,1,philippines,198,102
+4,project d,2102,technology/hosting/testing,2017,2,4,1,philippines,151,78
+4,project d,2102,technology/hosting/testing,2017,2,5,1,philippines,188,78
+4,project d,2102,technology/hosting/testing,2017,2,6,1,philippines,171,37
+4,project d,2102,technology/hosting/testing,2017,3,7,1,philippines,179,45
+4,project d,2102,technology/hosting/testing,2017,3,8,1,philippines,177,44
+4,project d,2102,technology/hosting/testing,2017,3,9,1,philippines,178,48
+4,project d,2102,technology/hosting/testing,2017,4,10,1,philippines,171,47
+4,project d,2102,technology/hosting/testing,2017,4,11,1,philippines,170,48
+4,project d,2102,technology/hosting/testing,2017,4,12,1,philippines,154,48
+4,project d,2102,technology/hosting/testing,2017,1,1,1,philippines,189,57
+4,project d,2102,technology/hosting/testing,2017,1,2,1,philippines,171,57
+4,project d,2102,technology/hosting/testing,2017,1,3,1,philippines,198,57
+4,project d,2102,technology/hosting/testing,2017,2,4,1,philippines,151,47
+4,project d,2102,technology/hosting/testing,2017,2,5,1,philippines,188,47
+4,project d,2102,technology/hosting/testing,2017,2,6,1,philippines,171,33
+4,project d,2102,technology/hosting/testing,2017,3,7,1,philippines,179,37
+4,project d,2102,technology/hosting/testing,2017,3,8,1,philippines,177,37
+4,project d,2102,technology/hosting/testing,2017,3,9,1,philippines,178,40
+4,project d,2102,technology/hosting/testing,2017,4,10,1,philippines,171,39
+4,project d,2102,technology/hosting/testing,2017,4,11,1,philippines,170,40
+4,project d,2102,technology/hosting/testing,2017,4,12,1,philippines,154,40
+4,project d,2102,technology/hosting/testing,2017,1,1,1,philippines,189,102
+4,project d,2102,technology/hosting/testing,2017,1,2,1,philippines,171,102
+4,project d,2102,technology/hosting/testing,2017,1,3,1,philippines,198,102
+4,project d,2102,technology/hosting/testing,2017,2,4,1,philippines,151,78
+4,project d,2102,technology/hosting/testing,2017,2,5,1,philippines,188,78
+4,project d,2102,technology/hosting/testing,2017,2,6,1,philippines,171,37
+4,project d,2102,technology/hosting/testing,2017,3,7,1,philippines,179,45
+4,project d,2102,technology/hosting/testing,2017,3,8,1,philippines,177,44
+4,project d,2102,technology/hosting/testing,2017,3,9,1,philippines,178,48
+4,project d,2102,technology/hosting/testing,2017,4,10,1,philippines,171,47
+4,project d,2102,technology/hosting/testing,2017,4,11,1,philippines,170,48
+4,project d,2102,technology/hosting/testing,2017,4,12,1,philippines,154,48
+4,project d,2102,technology/hosting/testing,2017,1,1,1,philippines,189,66
+4,project d,2102,technology/hosting/testing,2017,1,2,1,philippines,171,66
+4,project d,2102,technology/hosting/testing,2017,1,3,1,philippines,198,66
+4,project d,2102,technology/hosting/testing,2017,2,4,1,philippines,151,55
+4,project d,2102,technology/hosting/testing,2017,2,5,1,philippines,188,55
+4,project d,2102,technology/hosting/testing,2017,2,6,1,philippines,171,100
+4,project d,2102,technology/hosting/testing,2017,3,7,1,philippines,179,114
+4,project d,2102,technology/hosting/testing,2017,3,8,1,philippines,177,112
+4,project d,2102,technology/hosting/testing,2017,3,9,1,philippines,178,114
+4,project d,2102,technology/hosting/testing,2017,4,10,1,philippines,171,112
+4,project d,2102,technology/hosting/testing,2017,4,11,1,philippines,170,114
+4,project d,2102,technology/hosting/testing,2017,4,12,1,philippines,154,114
+4,project d,2102,technology/hosting/testing,2017,1,1,1,philippines,189,114
+4,project d,2102,technology/hosting/testing,2017,1,2,1,philippines,171,116
+4,project d,2102,technology/hosting/testing,2017,1,3,1,philippines,198,114
+4,project d,2102,technology/hosting/testing,2017,2,4,1,philippines,151,114
+4,project d,2102,technology/hosting/testing,2017,2,5,1,philippines,188,114
+4,project d,2102,technology/hosting/testing,2017,2,6,1,philippines,171,101
+4,project d,2102,technology/hosting/testing,2017,3,7,1,philippines,179,90
+4,project d,2102,technology/hosting/testing,2017,3,8,1,philippines,177,89
+4,project d,2102,technology/hosting/testing,2017,3,9,1,philippines,178,90
+4,project d,2102,technology/hosting/testing,2017,4,10,1,philippines,171,89
+4,project d,2102,technology/hosting/testing,2017,4,11,1,philippines,170,90
+4,project d,2102,technology/hosting/testing,2017,4,12,1,philippines,154,90
+4,project d,2103,testing/hosting/production,2017,1,1,1,philippines,189,180
+4,project d,2103,testing/hosting/production,2017,1,2,1,philippines,171,180
+4,project d,2103,testing/hosting/production,2017,1,3,1,philippines,198,180
+4,project d,2103,testing/hosting/production,2017,2,4,1,philippines,151,133
+4,project d,2103,testing/hosting/production,2017,2,5,1,philippines,188,133
+4,project d,2103,testing/hosting/production,2017,2,6,1,philippines,171,133
+4,project d,2103,testing/hosting/production,2017,3,7,1,philippines,179,243
+4,project d,2103,testing/hosting/production,2017,3,8,1,philippines,177,246
+4,project d,2103,testing/hosting/production,2017,3,9,1,philippines,178,254
+4,project d,2103,testing/hosting/production,2017,4,10,1,philippines,171,247
+4,project d,2103,testing/hosting/production,2017,4,11,1,philippines,170,254
+4,project d,2103,testing/hosting/production,2017,4,12,1,philippines,154,254
+4,project d,2103,testing/hosting/production,2017,1,1,1,philippines,189,183
+4,project d,2103,testing/hosting/production,2017,1,2,1,philippines,171,183
+4,project d,2103,testing/hosting/production,2017,1,3,1,philippines,198,183
+4,project d,2103,testing/hosting/production,2017,2,4,1,philippines,151,145
+4,project d,2103,testing/hosting/production,2017,2,5,1,philippines,188,145
+4,project d,2103,testing/hosting/production,2017,2,6,1,philippines,171,652
+4,project d,2103,testing/hosting/production,2017,3,7,1,philippines,179,725
+4,project d,2103,testing/hosting/production,2017,3,8,1,philippines,177,700
+4,project d,2103,testing/hosting/production,2017,3,9,1,philippines,178,722
+4,project d,2103,testing/hosting/production,2017,4,10,1,philippines,171,700
+4,project d,2103,testing/hosting/production,2017,4,11,1,philippines,170,722
+4,project d,2103,testing/hosting/production,2017,4,12,1,philippines,154,722
+4,project d,2103,testing/hosting/production,2017,1,1,1,philippines,189,138
+4,project d,2103,testing/hosting/production,2017,1,2,1,philippines,171,138
+4,project d,2103,testing/hosting/production,2017,1,3,1,philippines,198,138
+4,project d,2103,testing/hosting/production,2017,2,4,1,philippines,151,136
+4,project d,2103,testing/hosting/production,2017,2,5,1,philippines,188,136
+4,project d,2103,testing/hosting/production,2017,2,6,1,philippines,171,213
+4,project d,2103,testing/hosting/production,2017,3,7,1,philippines,179,232
+4,project d,2103,testing/hosting/production,2017,3,8,1,philippines,177,162
+4,project d,2103,testing/hosting/production,2017,3,9,1,philippines,178,166
+4,project d,2103,testing/hosting/production,2017,4,10,1,philippines,171,162
+4,project d,2103,testing/hosting/production,2017,4,11,1,philippines,170,166
+4,project d,2103,testing/hosting/production,2017,4,12,1,philippines,154,166
+4,project d,2103,testing/hosting/production,2017,1,1,1,philippines,189,107
+4,project d,2103,testing/hosting/production,2017,1,2,1,philippines,171,107
+4,project d,2103,testing/hosting/production,2017,1,3,1,philippines,198,107
+4,project d,2103,testing/hosting/production,2017,2,4,1,philippines,151,86
+4,project d,2103,testing/hosting/production,2017,2,5,1,philippines,188,86
+4,project d,2103,testing/hosting/production,2017,2,6,1,philippines,171,339
+4,project d,2103,testing/hosting/production,2017,3,7,1,philippines,179,381
+4,project d,2103,testing/hosting/production,2017,3,8,1,philippines,177,371
+4,project d,2103,testing/hosting/production,2017,3,9,1,philippines,178,381
+4,project d,2103,testing/hosting/production,2017,4,10,1,philippines,171,371
+4,project d,2103,testing/hosting/production,2017,4,11,1,philippines,170,381
+4,project d,2103,testing/hosting/production,2017,4,12,1,philippines,154,381
+4,project d,2103,testing/hosting/production,2017,1,1,1,philippines,189,221
+4,project d,2103,testing/hosting/production,2017,1,2,1,philippines,171,226
+4,project d,2103,testing/hosting/production,2017,1,3,1,philippines,198,221
+4,project d,2103,testing/hosting/production,2017,2,4,1,philippines,151,224
+4,project d,2103,testing/hosting/production,2017,2,5,1,philippines,188,224
+4,project d,2103,testing/hosting/production,2017,2,6,1,philippines,171,236
+4,project d,2103,testing/hosting/production,2017,3,7,1,philippines,179,256
+4,project d,2103,testing/hosting/production,2017,3,8,1,philippines,177,249
+4,project d,2103,testing/hosting/production,2017,3,9,1,philippines,178,256
+4,project d,2103,testing/hosting/production,2017,4,10,1,philippines,171,249
+4,project d,2103,testing/hosting/production,2017,4,11,1,philippines,170,256
+4,project d,2103,testing/hosting/production,2017,4,12,1,philippines,154,256
+5,project e,3001,other/workspace,2017,1,1,1,philippines,189,4000
+5,project e,3001,other/workspace,2017,1,2,1,philippines,171,4000
+5,project e,3001,other/workspace,2017,1,3,1,philippines,198,4000
+5,project e,3001,other/workspace,2017,2,4,1,philippines,151,4000
+5,project e,3001,other/workspace,2017,2,5,1,philippines,188,5000
+5,project e,3001,other/workspace,2017,2,6,1,philippines,171,5500
+5,project e,3001,other/workspace,2017,3,7,1,philippines,179,3750
+5,project e,3001,other/workspace,2017,3,8,1,philippines,177,4500
+5,project e,3001,other/workspace,2017,3,9,1,philippines,178,5000
+5,project e,3001,other/workspace,2017,4,10,1,philippines,171,5000
+5,project e,3001,other/workspace,2017,4,11,1,philippines,170,5000
+5,project e,3001,other/workspace,2017,4,12,1,philippines,154,5000
+5,project e,3001,other/workspace,2017,1,1,1,philippines,189,200
+5,project e,3001,other/workspace,2017,1,2,1,philippines,171,200
+5,project e,3001,other/workspace,2017,1,3,1,philippines,198,500
+5,project e,3001,other/workspace,2017,2,4,1,philippines,151,1000
+5,project e,3001,other/workspace,2017,2,5,1,philippines,188,300
+5,project e,3001,other/workspace,2017,2,6,1,philippines,171,300
+5,project e,3001,other/workspace,2017,3,7,1,philippines,179,300
+5,project e,3001,other/workspace,2017,3,8,1,philippines,177,300
+5,project e,3001,other/workspace,2017,3,9,1,philippines,178,300
+5,project e,3001,other/workspace,2017,4,10,1,philippines,171,300
+5,project e,3001,other/workspace,2017,4,11,1,philippines,170,300
+5,project e,3001,other/workspace,2017,4,12,1,philippines,154,300
+5,project e,3001,other/workspace,2017,1,1,1,philippines,189,500
+5,project e,3001,other/workspace,2017,1,2,1,philippines,171,500
+5,project e,3001,other/workspace,2017,1,3,1,philippines,198,500
+5,project e,3001,other/workspace,2017,2,4,1,philippines,151,500
+5,project e,3001,other/workspace,2017,2,5,1,philippines,188,500
+5,project e,3001,other/workspace,2017,2,6,1,philippines,171,550
+5,project e,3001,other/workspace,2017,3,7,1,philippines,179,550
+5,project e,3001,other/workspace,2017,3,8,1,philippines,177,550
+5,project e,3001,other/workspace,2017,3,9,1,philippines,178,550
+5,project e,3001,other/workspace,2017,4,10,1,philippines,171,550
+5,project e,3001,other/workspace,2017,4,11,1,philippines,170,550
+5,project e,3001,other/workspace,2017,4,12,1,philippines,154,550
